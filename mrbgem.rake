@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
-MRuby::Gem::Specification.new('strscan') do |s|
-  s.name = 'strscan'
+MRuby::Gem::Specification.new('mruby-strscan') do |s|
+  s.name = 'mruby-strscan'
   s.version = '1.0.0'
 
   s.authors = ['Scott Wadden']
